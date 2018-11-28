@@ -1,0 +1,2 @@
+# Kulirma
+Waveform analysis to detect tactile synesthetic triggers that induce quantifiable autonomy in fully aware meridian sensation while awake. And also, synthetic replication of assorted triggers using Machine Learning. Pursued as research project for rehabilitation of those afflicted with PTSD. This project is also important in the study of narcolepsy, its causes and preventative strategies. May also be helpful in keeping sobriety from previously long term addictions. To be submitted for research grant.
